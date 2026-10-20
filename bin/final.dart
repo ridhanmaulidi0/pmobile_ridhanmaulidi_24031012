@@ -1,7 +1,7 @@
-void main(){
-  var firstname ='Ridhan';
-  final lastname ='Maulidi';
+void main() { 
+  var firstName = 'Ridhan';
+  final lastName = 'Maulidi';
 
-  firstname = 'Ridhan';
-  lastname = 'Maulidi';
+  print(firstName);
+  print(lastName);
 }
